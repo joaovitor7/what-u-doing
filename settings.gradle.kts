@@ -15,4 +15,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "what-u-doing"
 include(":app")
- 
+include(":feature:signin")
